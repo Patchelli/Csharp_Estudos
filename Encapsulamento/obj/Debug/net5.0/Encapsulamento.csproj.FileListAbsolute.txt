@@ -1,0 +1,12 @@
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\bin\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+C:\Users\Patchelli\Documents\PROG\csharpCod3r\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.AssemblyReference.cache
