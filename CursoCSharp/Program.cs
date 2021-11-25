@@ -80,7 +80,9 @@ namespace CursoCSharp
                 {"desafio_2596",desafio_2597.Executar},
                 {"desafio_1073",desafio_1073.Executar},
                 {"desafio_1155",desafio_1155.Executar},
-                {"desafio_1098",desafio_1098.Executar},
+                {"desafio_1096",desafio_1096.Executar},
+                {"desafio_1164",desafio_1164.Executar},
+                {"desafio_2679",desafio_2679.Executar},
                 // oo
                 { "herança - oo", Heranca.Executar},
                 { "construtor this - oo", ConstrutorThis.Executar},
